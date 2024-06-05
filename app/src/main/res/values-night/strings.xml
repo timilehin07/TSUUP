@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ingriedients">Ingriedients</string>
+    <string name="_2_cups_ground_egusi_melon_seeds_n_1_cup_palm_oil_n_1_2_lbs_assorted_meat_beef_goat_meat_cow_tripe_n_1_2_pieces_fish_stockfish_or_dried_fish_n_1_4_cup_ground_crayfish_n_1_large_onion_chopped_n_2_cups_fresh_spinach_or_bitter_leaves_chopped_n_1_2_scotch_bonnet_or_habanero_peppers_chopped_n_2_bell_peppers_chopped_optional_n_2_tomatoes_chopped_optional_n_2_stock_cubes_maggi_or_knorr_n_salt_to_taste_n_water_or_meat_stock_as_needed_n_1_2_tablespoons_locust_beans_iru_or_ogiri_optional">• 2 cups ground Egusi (melon seeds)\n• 1 cup palm oil\n• 1-2 lbs assorted meat (beef, goat meat, cow tripe)\n• 1-2 pieces fish (stockfish or dried fish)\n• 1/4 cup ground crayfish\n• 1 large onion, chopped\n• 2 cups fresh spinach or bitter leaves, chopped\n• 1-2 Scotch bonnet or habanero peppers, chopped\n• 2 bell peppers, chopped (optional)\n• 2 tomatoes, chopped (optional)\n• 2 stock cubes (Maggi or Knorr)\n• Salt to taste\n• Water or meat stock as needed\n• 1-2 tablespoons locust beans (iru or ogiri, optional)</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="how_to_prepare">How to prepare</string>
+    <string name="ingredient_list">• 2 cups ground Egusi (melon seeds)\n• 1 cup palm oil\n• 1-2 lbs assorted meat (beef, goat meat, cow tripe)\n• 1-2 pieces fish (stockfish or dried fish)\n• 1/4 cup ground crayfish\n• 1 large onion, chopped\n• 2 cups fresh spinach or bitter leaves, chopped\n• 1-2 Scotch bonnet or habanero peppers, chopped\n• 2 bell peppers, chopped (optional)\n• 2 tomatoes, chopped (optional)\n• 2 stock cubes (Maggi or Knorr)\n• Salt to taste\n• Water or meat stock as needed\n• 1-2 tablespoons locust beans (iru or ogiri, optional)</string>
+    <string name="preparation_steps">Preparation Steps</string>
+    <string name="get_recipe">Get Recipe</string>
+    <string name="back">Back</string>
+    <string name="tsuup_app">Tsuup App</string>
+    <string name="access_to_egusi_soup_recipes">access to egusi soup recipes</string>
+</resources>

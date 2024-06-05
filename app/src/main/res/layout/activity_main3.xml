@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:background="#FFFFFF">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar3"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <ScrollView
+        android:id="@+id/instructions_scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:fillViewport="true"
+        android:layout_marginTop="8dp"
+        android:layout_below="@+id/toolbar3"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="8dp"
+            >
+
+            <TextView
+                android:id="@+id/description_heading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/preparation_steps"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:paddingBottom="8dp"/>
+
+            <TextView
+                android:id="@+id/description_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:lineSpacingExtra="2dp"
+                android:textIsSelectable="true"
+                android:text="@string/instructions"
+                android:layout_below="@+id/description_heading"
+                />
+
+            <Button
+                android:id="@+id/recipeButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/description_text"
+                android:text="@string/get_recipe"
+                android:layout_marginBottom="25dp"
+                android:layout_marginTop="30dp"
+                android:layout_centerInParent="true"
+                android:backgroundTint="@color/ButtonColor"
+                android:textColor="@color/black"
+                />
+        </RelativeLayout>
+
+
+    </ScrollView>
+
+
+</RelativeLayout>

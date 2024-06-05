@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TSuup</string>
+    <string name="ingriedients">Ingredients</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="how_to_prepare">How to prepare</string>
+    <string name="ingredient_list">• 2 cups ground Egusi (melon seeds)\n• 1 cup palm oil\n• 1-2 lbs assorted meat (beef, goat meat, cow tripe)\n• 1-2 pieces fish (stockfish or dried fish)\n• 1/4 cup ground crayfish\n• 1 large onion, chopped\n• 2 cups fresh spinach or bitter leaves, chopped\n• 1-2 Scotch bonnet or habanero peppers, chopped\n• 2 bell peppers, chopped (optional)\n• 2 tomatoes, chopped (optional)\n• 2 stock cubes (Maggi or Knorr)\n• Salt to taste\n• Water or meat stock as needed\n• 1-2 tablespoons locust beans (iru or ogiri, optional)</string>
+    <string name="instructions">1. Prepare the Ingredients:\n\n• Clean and cut the assorted meat into bite-sized pieces.\n• Rinse the fish and set aside.\n• If using dried fish, soak in hot water to soften and then debone.\n• Chop the onions, peppers, and tomatoes (if using).\n\n2. Cook the Meat:\n\n• In a large pot, add the assorted meat, a chopped onion, stock cubes, and salt. Add enough water to cover the meat and cook until tender. Set the meat aside but keep the stock.\n\n3. Prepare the Egusi:\n\n• In a bowl, mix the ground egusi with a small amount of water to form a thick paste.\n\n4. Cook the Egusi Soup:\n\n• In another large pot, heat the palm oil over medium heat.\n• Add the chopped onions and sauté until translucent.\n• Add the ground crayfish, locust beans (if using), and chopped peppers. Sauté for a few minutes.\n• Add the egusi paste by spoonfuls into the pot. Stir well and let it fry for about 10-15 minutes. Stir frequently to prevent burning.\n\n5. Combine and Simmer:\n\n• Add the cooked meat and fish to the pot.\n• Pour in the meat stock and additional water if needed to reach your desired consistency.\n• Stir well and let the soup simmer for about 10-15 minutes.\n• Add the chopped spinach or bitter leaves and let it cook for another 5 minutes.\n\n6. Final Seasoning:\n\n• Taste and adjust the seasoning with salt and additional stock cubes if needed.\n\n7. Serve:\n\n• Egusi soup is typically served with pounded yam, fufu, eba, or any other type of swallow (starchy side dish).</string>
+    <string name="preparation_steps">Preparation Steps</string>
+    <string name="get_recipe">Get Recipe</string>
+    <string name="back">Back</string>
+    <string name="egusi">EGUSI</string>
+    <string name="tsuup_app">Tsuup App</string>
+    <string name="access_to_egusi_soup_recipes">access to egusi soup recipes</string>
+</resources>
