@@ -9,6 +9,18 @@
     android:background="#B8F188"
     android:theme="@style/Theme.Design.Light.NoActionBar">
 
+    <ImageView
+        android:id="@+id/tsuup_logo"
+        android:layout_width="135dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/tuup_logo"
+        android:layout_above="@+id/tsuppId"
+        android:layout_marginTop="125dp"
+        />
+
+
+
     <TextView
         android:id="@+id/tsuppId"
         android:layout_width="wrap_content"
